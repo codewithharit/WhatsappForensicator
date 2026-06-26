@@ -47,7 +47,7 @@ Forensicator is built for you.
 
 | 📹 Quick Demo | 🎓 Full Tutorial |
 |:---:|:---:|
-| [![Watch the Demo](https://img.youtube.com/vi/4A5LDUMPMLs/hqdefault.jpg)](https://youtu.be/4A5LDUMPMLs) | [![Watch the Full Tutorial](https://img.youtube.com/vi/N5ELpPfhmIk/hqdefault.jpg)](https://youtu.be/N5ELpPfhmIk) |
+| [![Watch the Demo](https://img.youtube.com/vi/4A5LDUMPMLs/maxresdefault.jpg)](https://youtu.be/4A5LDUMPMLs) | [![Watch the Full Tutorial](https://img.youtube.com/vi/N5ELpPfhmIk/maxresdefault.jpg)](https://youtu.be/N5ELpPfhmIk) |
 | ▶️ **[Watch Demo](https://youtu.be/4A5LDUMPMLs)** | ▶️ **[Watch Full Tutorial](https://youtu.be/N5ELpPfhmIk)** |
 
 ---
