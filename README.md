@@ -45,10 +45,10 @@ Forensicator is built for you.
 
 ## 🎬 Demo & Tutorial
 
-| 📹 Quick Demo | 🎓 Full Tutorial |
+| 📡 VOIP Analysis Demo | 🎓 Full Tutorial |
 |:---:|:---:|
-| [![Watch the Demo](https://img.youtube.com/vi/4A5LDUMPMLs/maxresdefault.jpg)](https://youtu.be/4A5LDUMPMLs) | [![Watch the Full Tutorial](https://img.youtube.com/vi/N5ELpPfhmIk/maxresdefault.jpg)](https://youtu.be/N5ELpPfhmIk) |
-| ▶️ **[Watch Demo](https://youtu.be/4A5LDUMPMLs)** | ▶️ **[Watch Full Tutorial](https://youtu.be/N5ELpPfhmIk)** |
+| [![Watch the VOIP Analysis Demo](https://img.youtube.com/vi/N5ELpPfhmIk/maxresdefault.jpg)](https://youtu.be/N5ELpPfhmIk) | [![Watch the Full Tutorial](https://img.youtube.com/vi/4A5LDUMPMLs/maxresdefault.jpg)](https://youtu.be/4A5LDUMPMLs) |
+| ▶️ **[Watch VOIP Analysis Demo](https://youtu.be/N5ELpPfhmIk)** | ▶️ **[Watch Full Tutorial](https://youtu.be/4A5LDUMPMLs)** |
 
 ---
 
@@ -117,7 +117,7 @@ flowchart LR
 4. The IP is **geolocated** and the location is **plotted on an interactive map**.
 5. Click **Stop Capture** and export the findings for your report.
 
-> 🎓 See the **[Full Tutorial](https://youtu.be/N5ELpPfhmIk)** for a complete walkthrough.
+> 📡 Watch the **[VOIP Analysis Demo](https://youtu.be/N5ELpPfhmIk)** to see this in action, or the **[Full Tutorial](https://youtu.be/4A5LDUMPMLs)** for a complete walkthrough.
 
 ---
 
