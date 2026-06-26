@@ -1,0 +1,8 @@
+# Publish ONLY the README and logo to GitHub.
+# Ignore everything else (source code, backups, secrets, dependencies).
+*
+
+# Whitelist the files we want public:
+!README.md
+!logo.png
+!.gitignore
